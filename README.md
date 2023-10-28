@@ -9,7 +9,6 @@ Welcome to the Database and SQL repository! This repository contains resources a
 - [Advanced Level](#advanced-level)
 - [Projects](#projects)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
